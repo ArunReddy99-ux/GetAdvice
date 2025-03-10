@@ -1,4 +1,4 @@
-### Advice Generator 
+# Advice Generator 
 
 This is a simple **Advice Generator App** built with React.js that fetches random advice from an API and displays it.
 
